@@ -1,0 +1,14 @@
+{
+   "tests": [
+      {
+         "name": "Image exist",
+         "setup": "",
+         "run": "npm test",
+         "input": "",
+         "output": "",
+         "comparison": "included",
+         "timeout": 10,
+         "points": 10
+      }
+   ]
+}
