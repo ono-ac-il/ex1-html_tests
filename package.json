@@ -12,7 +12,7 @@
    },
    "scripts": {
       "start": "http-server -c-1 --help -p 8080",
-      "test": "npx playwright test"
+      "test": "npm start && npx playwright test"
    },
    "author": "Ono"
 }
